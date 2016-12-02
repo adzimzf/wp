@@ -196,12 +196,15 @@ All rights reserved.
 <li><a href="/pros">Pros on Strava</a></li>
 <li><a href="/stand-with-us">Stand With Us</a></li>
 </ul>
-
 </div>
 </div>
 </div>
-<a href="#" class="media-sm-show visible-sm-block" id="back-to-top">Top ↑</a>
+<a href="#" class="media-sm-show visible-sm-block" id="back-to-top">Top ↑ ok</a>
 </footer>
+
+
+
+
 
 
 </div>
